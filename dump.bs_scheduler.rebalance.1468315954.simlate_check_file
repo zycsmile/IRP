@@ -1,0 +1,3655 @@
+{
+    "later": {
+        "cpu_idle": {
+            "max": 0.9931972789115646, 
+            "mean": 0.491691931275171, 
+            "mean_of_top10_percent": 0.3476693722898078, 
+            "mean_of_top1_percent": 0.29104110780114484, 
+            "mean_of_top5_percent": 0.3255745247064937, 
+            "min": 0.27941176470588236, 
+            "num": 5401, 
+            "standard_deviation": 0.1073080385399982
+        }, 
+        "domain_cpu_idle": {
+            "max": 0.8102081069114035, 
+            "mean": 0.48197657084853907, 
+            "mean_of_top10_percent": 0.3748660416065013, 
+            "mean_of_top1_percent": 0.3129443444044284, 
+            "mean_of_top5_percent": 0.35922592090476874, 
+            "min": 0.29931972789115646, 
+            "num": 479, 
+            "standard_deviation": 0.06931762868850568
+        }, 
+        "flash_actual_remain": {
+            "max": 5135502, 
+            "mean": 387973.37252360675, 
+            "mean_of_top10_percent": 10142.957407407408, 
+            "mean_of_top1_percent": 0.0, 
+            "mean_of_top5_percent": 826.7407407407408, 
+            "min": 0, 
+            "num": 5401, 
+            "standard_deviation": 465127.72512430453
+        }, 
+        "flash_remain": {
+            "max": 5135502, 
+            "mean": 357277.45102758746, 
+            "mean_of_top10_percent": 4063.9055555555556, 
+            "mean_of_top1_percent": -15039.888888888889, 
+            "mean_of_top5_percent": -3532.5037037037036, 
+            "min": -46410, 
+            "num": 5401, 
+            "standard_deviation": 456143.06212223746
+        }, 
+        "idc_cpu_idle": {
+            "bjyz": {
+                "max": 0.45932203389830506, 
+                "mean": 0.38800847457627125, 
+                "mean_of_top10_percent": 0.3525423728813559, 
+                "mean_of_top1_percent": 0.3423728813559322, 
+                "mean_of_top5_percent": 0.34661016949152545, 
+                "min": 0.3423728813559322, 
+                "num": 40, 
+                "standard_deviation": 0.021467249228262226
+            }, 
+            "cp01": {
+                "max": 0.8558139534883721, 
+                "mean": 0.4999752016943426, 
+                "mean_of_top10_percent": 0.36739925848740895, 
+                "mean_of_top1_percent": 0.3345390983753406, 
+                "mean_of_top5_percent": 0.3562113695510736, 
+                "min": 0.30566037735849055, 
+                "num": 644, 
+                "standard_deviation": 0.10316098225123913
+            }, 
+            "cq01": {
+                "max": 0.9841269841269841, 
+                "mean": 0.527370908502124, 
+                "mean_of_top10_percent": 0.36128948500238367, 
+                "mean_of_top1_percent": 0.2895238095238095, 
+                "mean_of_top5_percent": 0.3402869295675925, 
+                "min": 0.2857142857142857, 
+                "num": 2537, 
+                "standard_deviation": 0.10145674004950231
+            }, 
+            "cq02": {
+                "max": 0.7083333333333334, 
+                "mean": 0.42416140074208436, 
+                "mean_of_top10_percent": 0.3773904211748596, 
+                "mean_of_top1_percent": 0.3666439972993885, 
+                "mean_of_top5_percent": 0.37474838567229896, 
+                "min": 0.3564102564102564, 
+                "num": 1152, 
+                "standard_deviation": 0.039305036218632704
+            }, 
+            "db01": {
+                "max": 0.5884476534296029, 
+                "mean": 0.4606433728726147, 
+                "mean_of_top10_percent": 0.2996389891696751, 
+                "mean_of_top1_percent": 0.2996389891696751, 
+                "mean_of_top5_percent": 0.2996389891696751, 
+                "min": 0.2996389891696751, 
+                "num": 4, 
+                "standard_deviation": 0.11140596074684432
+            }, 
+            "tc": {
+                "max": 0.9931972789115646, 
+                "mean": 0.47822973625669024, 
+                "mean_of_top10_percent": 0.312458316659997, 
+                "mean_of_top1_percent": 0.282563025210084, 
+                "mean_of_top5_percent": 0.2961184473789514, 
+                "min": 0.27941176470588236, 
+                "num": 1024, 
+                "standard_deviation": 0.1334267047554615
+            }
+        }, 
+        "idc_flash_remain": {
+            "bjyz": {
+                "max": 1707083, 
+                "mean": 1272907.0, 
+                "mean_of_top10_percent": 746315.0, 
+                "mean_of_top1_percent": 681035.0, 
+                "mean_of_top5_percent": 698443.0, 
+                "min": 681035, 
+                "num": 40, 
+                "standard_deviation": 254290.14906283727
+            }, 
+            "cp01": {
+                "max": 5135502, 
+                "mean": 821034.4953416149, 
+                "mean_of_top10_percent": 299134.0, 
+                "mean_of_top1_percent": 89971.33333333333, 
+                "mean_of_top5_percent": 247134.0, 
+                "min": 47134, 
+                "num": 644, 
+                "standard_deviation": 498377.9755241699
+            }, 
+            "cq01": {
+                "max": 1640804, 
+                "mean": 145569.28104059913, 
+                "mean_of_top10_percent": 2238.3557312252965, 
+                "mean_of_top1_percent": -20660.72, 
+                "mean_of_top5_percent": -6705.555555555556, 
+                "min": -46410, 
+                "num": 2537, 
+                "standard_deviation": 150998.6468976233
+            }, 
+            "cq02": {
+                "max": 1958529, 
+                "mean": 703099.6875, 
+                "mean_of_top10_percent": 143702.59130434782, 
+                "mean_of_top1_percent": 22182.909090909092, 
+                "mean_of_top5_percent": 84357.08771929824, 
+                "min": 8207, 
+                "num": 1152, 
+                "standard_deviation": 598334.3357480391
+            }, 
+            "db01": {
+                "max": 1869402, 
+                "mean": 1339491.5, 
+                "mean_of_top10_percent": 188032.0, 
+                "mean_of_top1_percent": 188032.0, 
+                "mean_of_top5_percent": 188032.0, 
+                "min": 188032, 
+                "num": 4, 
+                "standard_deviation": 672539.9269149379
+            }, 
+            "tc": {
+                "max": 848960, 
+                "mean": 161479.439453125, 
+                "mean_of_top10_percent": -653.7843137254902, 
+                "mean_of_top1_percent": -6668.6, 
+                "mean_of_top5_percent": -1307.5686274509803, 
+                "min": -8412, 
+                "num": 1024, 
+                "standard_deviation": 148270.2573641935
+            }
+        }, 
+        "idc_memory_actual_remain": {
+            "bjyz": {
+                "max": 120876.0, 
+                "mean": 90335.2, 
+                "mean_of_top10_percent": 64812.0, 
+                "mean_of_top1_percent": 59436.0, 
+                "mean_of_top5_percent": 61484.0, 
+                "min": 59436.0, 
+                "num": 40, 
+                "standard_deviation": 14600.328851090992
+            }, 
+            "cp01": {
+                "max": 56318.0, 
+                "mean": 24448.666149068322, 
+                "mean_of_top10_percent": 2241.15625, 
+                "mean_of_top1_percent": 95.0, 
+                "mean_of_top5_percent": 967.09375, 
+                "min": 95.0, 
+                "num": 644, 
+                "standard_deviation": 14267.047191156706
+            }, 
+            "cq01": {
+                "max": 80343.0, 
+                "mean": 15076.36460386283, 
+                "mean_of_top10_percent": 1829.5217391304348, 
+                "mean_of_top1_percent": 91.72, 
+                "mean_of_top5_percent": 939.6825396825396, 
+                "min": 86.0, 
+                "num": 2537, 
+                "standard_deviation": 10766.009070210657
+            }, 
+            "cq02": {
+                "max": 96230.0, 
+                "mean": 44422.438368055555, 
+                "mean_of_top10_percent": 6318.8, 
+                "mean_of_top1_percent": 165.1818181818182, 
+                "mean_of_top5_percent": 2015.7543859649122, 
+                "min": 101.0, 
+                "num": 1152, 
+                "standard_deviation": 21541.312602498525
+            }, 
+            "db01": {
+                "max": 41328.0, 
+                "mean": 22267.0, 
+                "mean_of_top10_percent": 11632.0, 
+                "mean_of_top1_percent": 11632.0, 
+                "mean_of_top5_percent": 11632.0, 
+                "min": 11632.0, 
+                "num": 4, 
+                "standard_deviation": 11381.8878486831
+            }, 
+            "tc": {
+                "max": 85480.0, 
+                "mean": 31854.3681640625, 
+                "mean_of_top10_percent": 7766.588235294118, 
+                "mean_of_top1_percent": 2767.6, 
+                "mean_of_top5_percent": 4920.607843137255, 
+                "min": 129.0, 
+                "num": 1024, 
+                "standard_deviation": 14273.120849463907
+            }
+        }, 
+        "idc_memory_remain": {
+            "bjyz": {
+                "max": 120876.0, 
+                "mean": 69496.8, 
+                "mean_of_top10_percent": 17964.0, 
+                "mean_of_top1_percent": 11308.0, 
+                "mean_of_top5_percent": 15404.0, 
+                "min": 11308.0, 
+                "num": 40, 
+                "standard_deviation": 30860.383240653377
+            }, 
+            "cp01": {
+                "max": 51198.0, 
+                "mean": 18539.995341614907, 
+                "mean_of_top10_percent": 1367.625, 
+                "mean_of_top1_percent": -925.8333333333334, 
+                "mean_of_top5_percent": 320.75, 
+                "min": -4001.0, 
+                "num": 644, 
+                "standard_deviation": 13636.810814063147
+            }, 
+            "cq01": {
+                "max": 80343.0, 
+                "mean": 12539.976744186046, 
+                "mean_of_top10_percent": 694.4071146245059, 
+                "mean_of_top1_percent": -3542.24, 
+                "mean_of_top5_percent": -409.76984126984127, 
+                "min": -7079.0, 
+                "num": 2537, 
+                "standard_deviation": 9169.84405055835
+            }, 
+            "cq02": {
+                "max": 96230.0, 
+                "mean": 34696.216145833336, 
+                "mean_of_top10_percent": 1241.895652173913, 
+                "mean_of_top1_percent": -2523.0, 
+                "mean_of_top5_percent": -15.666666666666666, 
+                "min": -3991.0, 
+                "num": 1152, 
+                "standard_deviation": 24117.540374117736
+            }, 
+            "db01": {
+                "max": 41328.0, 
+                "mean": 22267.0, 
+                "mean_of_top10_percent": 11632.0, 
+                "mean_of_top1_percent": 11632.0, 
+                "mean_of_top5_percent": 11632.0, 
+                "min": 11632.0, 
+                "num": 4, 
+                "standard_deviation": 11381.8878486831
+            }, 
+            "tc": {
+                "max": 78301.0, 
+                "mean": 22824.3681640625, 
+                "mean_of_top10_percent": 2620.6960784313724, 
+                "mean_of_top1_percent": -78.8, 
+                "mean_of_top5_percent": 1154.9607843137255, 
+                "min": -895.0, 
+                "num": 1024, 
+                "standard_deviation": 14934.01131064156
+            }
+        }, 
+        "memory_actual_remain": {
+            "max": 120876.0, 
+            "mean": 26196.94056656175, 
+            "mean_of_top10_percent": 2839.651851851852, 
+            "mean_of_top1_percent": 97.66666666666667, 
+            "mean_of_top5_percent": 1298.4296296296295, 
+            "min": 86.0, 
+            "num": 5401, 
+            "standard_deviation": 19591.805236579203
+        }, 
+        "memory_remain": {
+            "max": 120876.0, 
+            "mean": 20360.083688205887, 
+            "mean_of_top10_percent": 1158.0240740740742, 
+            "mean_of_top1_percent": -2505.8518518518517, 
+            "mean_of_top5_percent": 12.762962962962963, 
+            "min": -7079.0, 
+            "num": 5401, 
+            "standard_deviation": 18087.605037521345
+        }, 
+        "not_match_replication_partitions": {
+            "list": [], 
+            "num": 0
+        }, 
+        "offline_slavenodes": {
+            "list": [], 
+            "num": 0
+        }, 
+        "violative_failure_domain": {
+            "list": [
+                "10.48.115", 
+                "10.46.187", 
+                "10.48.113", 
+                "10.92.68", 
+                "10.48.111", 
+                "10.92.67", 
+                "10.46.188", 
+                "10.57.239", 
+                "10.48.112", 
+                "10.144.90", 
+                "10.46.82", 
+                "10.46.185", 
+                "10.48.86", 
+                "10.92.69", 
+                "10.46.18", 
+                "10.46.17", 
+                "10.57.176", 
+                "10.92.70", 
+                "10.57.177", 
+                "10.26.112", 
+                "10.23.246", 
+                "10.57.140", 
+                "10.26.160", 
+                "10.48.155", 
+                "10.92.170", 
+                "10.48.94", 
+                "10.48.95", 
+                "10.48.97", 
+                "10.48.90", 
+                "10.48.91", 
+                "10.48.98", 
+                "10.48.99", 
+                "10.57.154", 
+                "10.48.106", 
+                "10.92.166", 
+                "10.92.167", 
+                "10.92.164", 
+                "10.92.165", 
+                "10.92.168", 
+                "10.92.169", 
+                "10.46.75", 
+                "10.46.70", 
+                "10.48.82", 
+                "10.46.72", 
+                "10.46.73", 
+                "10.48.89", 
+                "10.48.143", 
+                "10.48.146", 
+                "10.26.212", 
+                "10.92.157", 
+                "10.92.155", 
+                "10.92.154", 
+                "10.92.153", 
+                "10.58.83", 
+                "10.46.64", 
+                "10.48.110", 
+                "10.57.178", 
+                "10.57.179", 
+                "10.48.152", 
+                "10.48.153", 
+                "10.48.150", 
+                "10.48.151", 
+                "10.48.156", 
+                "10.26.113", 
+                "10.26.110", 
+                "10.26.111", 
+                "10.58.90", 
+                "10.46.50", 
+                "10.26.49", 
+                "10.26.48", 
+                "10.57.244", 
+                "10.26.47", 
+                "10.57.181", 
+                "10.57.180", 
+                "10.57.183", 
+                "10.57.182", 
+                "10.57.185", 
+                "10.57.184", 
+                "10.57.187", 
+                "10.57.186", 
+                "10.57.189", 
+                "10.57.188", 
+                "10.48.161", 
+                "10.46.45", 
+                "10.23.16", 
+                "10.58.66", 
+                "10.26.76", 
+                "10.23.18", 
+                "10.57.192", 
+                "10.57.190", 
+                "10.57.191", 
+                "10.48.176", 
+                "10.48.177", 
+                "10.58.46", 
+                "10.92.45", 
+                "10.58.115", 
+                "10.58.199", 
+                "10.23.22", 
+                "10.23.23", 
+                "10.23.21", 
+                "10.23.27", 
+                "10.23.25", 
+                "10.46.38", 
+                "10.26.63", 
+                "10.26.62", 
+                "10.26.65", 
+                "10.26.66", 
+                "10.48.105", 
+                "10.48.104", 
+                "10.48.107", 
+                "10.92.58", 
+                "10.48.101", 
+                "10.48.100", 
+                "10.48.103", 
+                "10.48.102", 
+                "10.48.108", 
+                "10.92.54", 
+                "10.144.89", 
+                "10.57.129", 
+                "10.57.128", 
+                "10.57.127", 
+                "10.58.48", 
+                "10.23.31", 
+                "10.58.47", 
+                "10.58.44", 
+                "10.46.23"
+            ], 
+            "num": 126
+        }
+    }, 
+    "orig": {
+        "cpu_idle": {
+            "max": 0.996969696969697, 
+            "mean": 0.4938684070479283, 
+            "mean_of_top10_percent": 0.18604152835955717, 
+            "mean_of_top1_percent": -0.032668798585117405, 
+            "mean_of_top5_percent": 0.12164293264587156, 
+            "min": -0.38095238095238093, 
+            "num": 5401, 
+            "standard_deviation": 0.1893669684944179
+        }, 
+        "domain_cpu_idle": {
+            "max": 0.9931972789115646, 
+            "mean": 0.4701218937062518, 
+            "mean_of_top10_percent": 0.2756162027033409, 
+            "mean_of_top1_percent": 0.16759742656752624, 
+            "mean_of_top5_percent": 0.24254464667563108, 
+            "min": 0.09523809523809523, 
+            "num": 479, 
+            "standard_deviation": 0.12399033434432367
+        }, 
+        "flash_actual_remain": {
+            "max": 5188750, 
+            "mean": 399200.02240325866, 
+            "mean_of_top10_percent": 8520.042592592592, 
+            "mean_of_top1_percent": -15039.888888888889, 
+            "mean_of_top5_percent": -3532.5037037037036, 
+            "min": -46410, 
+            "num": 5401, 
+            "standard_deviation": 484341.86755818845
+        }, 
+        "flash_remain": {
+            "max": 5188750, 
+            "mean": 399200.02240325866, 
+            "mean_of_top10_percent": 8520.042592592592, 
+            "mean_of_top1_percent": -15039.888888888889, 
+            "mean_of_top5_percent": -3532.5037037037036, 
+            "min": -46410, 
+            "num": 5401, 
+            "standard_deviation": 484341.86755818845
+        }, 
+        "idc_cpu_idle": {
+            "bjyz": {
+                "max": 0.9966101694915255, 
+                "mean": 0.9159322033898304, 
+                "mean_of_top10_percent": 0.8389830508474576, 
+                "mean_of_top1_percent": 0.8389830508474576, 
+                "mean_of_top5_percent": 0.8389830508474576, 
+                "min": 0.8389830508474576, 
+                "num": 40, 
+                "standard_deviation": 0.06683942950383094
+            }, 
+            "cp01": {
+                "max": 0.9878787878787879, 
+                "mean": 0.49109525026328227, 
+                "mean_of_top10_percent": 0.12085755813953493, 
+                "mean_of_top1_percent": 0.09069767441860466, 
+                "mean_of_top5_percent": 0.1126453488372093, 
+                "min": 0.07441860465116279, 
+                "num": 644, 
+                "standard_deviation": 0.1880082321670415
+            }, 
+            "cq01": {
+                "max": 0.996969696969697, 
+                "mean": 0.5468841136838606, 
+                "mean_of_top10_percent": 0.2819672383266398, 
+                "mean_of_top1_percent": 0.09858163265306123, 
+                "mean_of_top5_percent": 0.22562487116058547, 
+                "min": -0.061224489795918366, 
+                "num": 2537, 
+                "standard_deviation": 0.16456039889259344
+            }, 
+            "cq02": {
+                "max": 0.9897435897435898, 
+                "mean": 0.4082769112478618, 
+                "mean_of_top10_percent": 0.20774185987332242, 
+                "mean_of_top1_percent": 0.10359408033826636, 
+                "mean_of_top5_percent": 0.17663760571186338, 
+                "min": -0.004651162790697674, 
+                "num": 1152, 
+                "standard_deviation": 0.11866902057607297
+            }, 
+            "db01": {
+                "max": 0.9602888086642599, 
+                "mean": 0.8324845281072717, 
+                "mean_of_top10_percent": 0.5357142857142857, 
+                "mean_of_top1_percent": 0.5357142857142857, 
+                "mean_of_top5_percent": 0.5357142857142857, 
+                "min": 0.5357142857142857, 
+                "num": 4, 
+                "standard_deviation": 0.17495337166877148
+            }, 
+            "tc": {
+                "max": 0.996031746031746, 
+                "mean": 0.4427448250731503, 
+                "mean_of_top10_percent": 0.0855371734492613, 
+                "mean_of_top1_percent": -0.29523809523809524, 
+                "mean_of_top5_percent": -0.010193426483019255, 
+                "min": -0.38095238095238093, 
+                "num": 1024, 
+                "standard_deviation": 0.24176615273734364
+            }
+        }, 
+        "idc_flash_remain": {
+            "bjyz": {
+                "max": 2252875, 
+                "mean": 2170007.8, 
+                "mean_of_top10_percent": 1965131.0, 
+                "mean_of_top1_percent": 1965131.0, 
+                "mean_of_top5_percent": 1965131.0, 
+                "min": 1965131, 
+                "num": 40, 
+                "standard_deviation": 90675.87577387936
+            }, 
+            "cp01": {
+                "max": 5188750, 
+                "mean": 845648.6568322981, 
+                "mean_of_top10_percent": 354686.0, 
+                "mean_of_top1_percent": 309278.0, 
+                "mean_of_top5_percent": 339166.0, 
+                "min": 265246, 
+                "num": 644, 
+                "standard_deviation": 506376.33773912204
+            }, 
+            "cq01": {
+                "max": 1640804, 
+                "mean": 170034.2837997635, 
+                "mean_of_top10_percent": 7176.371541501976, 
+                "mean_of_top1_percent": -20660.72, 
+                "mean_of_top5_percent": -6397.507936507936, 
+                "min": -46410, 
+                "num": 2537, 
+                "standard_deviation": 165021.84750053595
+            }, 
+            "cq02": {
+                "max": 2332289, 
+                "mean": 765174.3541666666, 
+                "mean_of_top10_percent": 278531.6, 
+                "mean_of_top1_percent": 183692.9090909091, 
+                "mean_of_top5_percent": 257682.1403508772, 
+                "min": 33807, 
+                "num": 1152, 
+                "standard_deviation": 598769.4913449518
+            }, 
+            "db01": {
+                "max": 2230874, 
+                "mean": 1689699.5, 
+                "mean_of_top10_percent": 188032.0, 
+                "mean_of_top1_percent": 188032.0, 
+                "mean_of_top5_percent": 188032.0, 
+                "min": 188032, 
+                "num": 4, 
+                "standard_deviation": 868414.2104864188
+            }, 
+            "tc": {
+                "max": 922669, 
+                "mean": 200258.439453125, 
+                "mean_of_top10_percent": -653.7843137254902, 
+                "mean_of_top1_percent": -6668.6, 
+                "mean_of_top5_percent": -1307.5686274509803, 
+                "min": -8412, 
+                "num": 1024, 
+                "standard_deviation": 165085.65610233578
+            }
+        }, 
+        "idc_memory_actual_remain": {
+            "bjyz": {
+                "max": 189484.0, 
+                "mean": 178552.8, 
+                "mean_of_top10_percent": 161836.0, 
+                "mean_of_top1_percent": 161836.0, 
+                "mean_of_top5_percent": 161836.0, 
+                "min": 161836.0, 
+                "num": 40, 
+                "standard_deviation": 8904.642708160725
+            }, 
+            "cp01": {
+                "max": 90110.0, 
+                "mean": 26038.728260869564, 
+                "mean_of_top10_percent": 3934.15625, 
+                "mean_of_top1_percent": -925.8333333333334, 
+                "mean_of_top5_percent": 2519.34375, 
+                "min": -4001.0, 
+                "num": 644, 
+                "standard_deviation": 21781.796707280042
+            }, 
+            "cq01": {
+                "max": 90583.0, 
+                "mean": 16240.422940480883, 
+                "mean_of_top10_percent": 1459.7549407114625, 
+                "mean_of_top1_percent": -3542.24, 
+                "mean_of_top5_percent": -200.3015873015873, 
+                "min": -7079.0, 
+                "num": 2537, 
+                "standard_deviation": 12882.632451614843
+            }, 
+            "cq02": {
+                "max": 126950.0, 
+                "mean": 45127.327256944445, 
+                "mean_of_top10_percent": 5685.6, 
+                "mean_of_top1_percent": -2523.0, 
+                "mean_of_top5_percent": 2043.701754385965, 
+                "min": -3991.0, 
+                "num": 1152, 
+                "standard_deviation": 23112.951387628927
+            }, 
+            "db01": {
+                "max": 86384.0, 
+                "mean": 66811.0, 
+                "mean_of_top10_percent": 16284.0, 
+                "mean_of_top1_percent": 16284.0, 
+                "mean_of_top5_percent": 16284.0, 
+                "min": 16284.0, 
+                "num": 4, 
+                "standard_deviation": 29362.857269005686
+            }, 
+            "tc": {
+                "max": 112104.0, 
+                "mean": 31217.3681640625, 
+                "mean_of_top10_percent": 6545.490196078431, 
+                "mean_of_top1_percent": 1343.8, 
+                "mean_of_top5_percent": 4491.862745098039, 
+                "min": -895.0, 
+                "num": 1024, 
+                "standard_deviation": 17105.500192172647
+            }
+        }, 
+        "idc_memory_remain": {
+            "bjyz": {
+                "max": 189484.0, 
+                "mean": 178552.8, 
+                "mean_of_top10_percent": 161836.0, 
+                "mean_of_top1_percent": 161836.0, 
+                "mean_of_top5_percent": 161836.0, 
+                "min": 161836.0, 
+                "num": 40, 
+                "standard_deviation": 8904.642708160725
+            }, 
+            "cp01": {
+                "max": 90110.0, 
+                "mean": 26038.728260869564, 
+                "mean_of_top10_percent": 3934.15625, 
+                "mean_of_top1_percent": -925.8333333333334, 
+                "mean_of_top5_percent": 2519.34375, 
+                "min": -4001.0, 
+                "num": 644, 
+                "standard_deviation": 21781.796707280042
+            }, 
+            "cq01": {
+                "max": 90583.0, 
+                "mean": 16240.422940480883, 
+                "mean_of_top10_percent": 1459.7549407114625, 
+                "mean_of_top1_percent": -3542.24, 
+                "mean_of_top5_percent": -200.3015873015873, 
+                "min": -7079.0, 
+                "num": 2537, 
+                "standard_deviation": 12882.632451614843
+            }, 
+            "cq02": {
+                "max": 126950.0, 
+                "mean": 45127.327256944445, 
+                "mean_of_top10_percent": 5685.6, 
+                "mean_of_top1_percent": -2523.0, 
+                "mean_of_top5_percent": 2043.701754385965, 
+                "min": -3991.0, 
+                "num": 1152, 
+                "standard_deviation": 23112.951387628927
+            }, 
+            "db01": {
+                "max": 86384.0, 
+                "mean": 66811.0, 
+                "mean_of_top10_percent": 16284.0, 
+                "mean_of_top1_percent": 16284.0, 
+                "mean_of_top5_percent": 16284.0, 
+                "min": 16284.0, 
+                "num": 4, 
+                "standard_deviation": 29362.857269005686
+            }, 
+            "tc": {
+                "max": 112104.0, 
+                "mean": 31217.3681640625, 
+                "mean_of_top10_percent": 6545.490196078431, 
+                "mean_of_top1_percent": 1343.8, 
+                "mean_of_top5_percent": 4491.862745098039, 
+                "min": -895.0, 
+                "num": 1024, 
+                "standard_deviation": 17105.500192172647
+            }
+        }, 
+        "memory_actual_remain": {
+            "max": 189484.0, 
+            "mean": 27649.234586187744, 
+            "mean_of_top10_percent": 3033.348148148148, 
+            "mean_of_top1_percent": -2505.8518518518517, 
+            "mean_of_top5_percent": 820.1037037037037, 
+            "min": -7079.0, 
+            "num": 5401, 
+            "standard_deviation": 24575.98997030458
+        }, 
+        "memory_remain": {
+            "max": 189484.0, 
+            "mean": 27649.234586187744, 
+            "mean_of_top10_percent": 3033.348148148148, 
+            "mean_of_top1_percent": -2505.8518518518517, 
+            "mean_of_top5_percent": 820.1037037037037, 
+            "min": -7079.0, 
+            "num": 5401, 
+            "standard_deviation": 24575.98997030458
+        }, 
+        "not_match_replication_partitions": {
+            "list": [
+                [
+                    "bs_tiebase_355", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2242", 
+                    2, 
+                    1
+                ], 
+                [
+                    "bs_zhidao-vip_11", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-sr-wdna_64", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2521", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wp_59", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_se_66", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2653", 
+                    2, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1403", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_433", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_432", 
+                    2, 
+                    1
+                ], 
+                [
+                    "bs_se_387", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_389", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1880", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_zhidao-vip_79", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_tiebase_2912", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_3906", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_412", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_410", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_dnews-weibo_22", 
+                    1, 
+                    3
+                ], 
+                [
+                    "bs_wenku-vip_35", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-sr-wdna_327", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_zhidao-vip_80", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_rts_38", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_3037", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_193", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_3966", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1123", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1127", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wdna_33", 
+                    8, 
+                    10
+                ], 
+                [
+                    "bs_wdna_31", 
+                    9, 
+                    10
+                ], 
+                [
+                    "bs_wp_2", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_tiebase_1302", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_zhidao_34", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_gcd-en-se_4801", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2273", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2275", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_9", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wise-vip_147", 
+                    3, 
+                    4
+                ], 
+                [
+                    "bs_wise-vip_149", 
+                    3, 
+                    4
+                ], 
+                [
+                    "bs_wise-daily_21", 
+                    0, 
+                    3
+                ], 
+                [
+                    "bs_wise-daily_22", 
+                    0, 
+                    3
+                ], 
+                [
+                    "bs_se_1105", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wdna_14", 
+                    9, 
+                    10
+                ], 
+                [
+                    "bs_wdna_16", 
+                    9, 
+                    10
+                ], 
+                [
+                    "bs_gcd-en-se_4494", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebahour_82", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_se_1356", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_scholar_32", 
+                    1, 
+                    2
+                ], 
+                [
+                    "bs_rts_19", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_se_1683", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_rts_14", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_rts_15", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_186", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_185", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_182", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_4860", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_96", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_4680", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_1941", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2922", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_228", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_224", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1207", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_551", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wenku-vip_2", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_wenku-vip_7", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_wenku-vip_6", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_tiebase_2784", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_4389", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_794", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_796", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1371", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_23", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_tiebase_800", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_229", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_rts_34", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_946", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_161", 
+                    3, 
+                    6
+                ], 
+                [
+                    "bs_vip_160", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_163", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_162", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_165", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_164", 
+                    3, 
+                    6
+                ], 
+                [
+                    "bs_vip_166", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_169", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_wdnb_176", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_gcd-en-se_2443", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_765", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_761", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wise-daily_20", 
+                    0, 
+                    3
+                ], 
+                [
+                    "bs_wise-daily_23", 
+                    0, 
+                    3
+                ], 
+                [
+                    "bs_wise-daily_24", 
+                    0, 
+                    3
+                ], 
+                [
+                    "bs_zhidao-vip_94", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_rts_43", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_rts_42", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_230", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_tiebase_2225", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2941", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_244", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1510", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2580", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2581", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_159", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_4981", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_4722", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1626", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_rts_54", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_205", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_200", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_201", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_203", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_zhidao_83", 
+                    1, 
+                    3
+                ], 
+                [
+                    "bs_vip_142", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_140", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_146", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_296", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_292", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_631", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1728", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_4536", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_4535", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_4530", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_2500", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_91", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_1265", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1610", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1432", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1926", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2399", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_2703", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_2180", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_3288", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-vip_147", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-sr-wdna_299", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-sr-wdna_290", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2622", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_390", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1677", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1670", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2378", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_849", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2722", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_106", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_104", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_103", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_dnews_0", 
+                    7, 
+                    8
+                ], 
+                [
+                    "bs_gcd-en-se_789", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1217", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_208", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_209", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_202", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-vip_61", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-vip_65", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1473", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1472", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_3122", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_686", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2689", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2741", 
+                    2, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_2122", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wise-vip_27", 
+                    3, 
+                    4
+                ], 
+                [
+                    "bs_tiebase_1693", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2199", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_1968", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-sr-wdna_257", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1215", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wise-vip_200", 
+                    3, 
+                    4
+                ], 
+                [
+                    "bs_se_82", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_81", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1418", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2864", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2861", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1858", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_4908", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_zhidao-vip_85", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_se_2335", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_505", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1058", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_698", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2475", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1235", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-cn-cse-hour_27", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_se_1433", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_1775", 
+                    2, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_3786", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_rts_2", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_rts_5", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_se_2860", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2868", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1461", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1598", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_125", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_3311", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-sr-wdna_215", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2773", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebarts_2", 
+                    4, 
+                    3
+                ], 
+                [
+                    "bs_tiebadaily_18", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_gcd-en-se_4441", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1901", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2548", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2549", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_178", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_5010", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wenku_62", 
+                    3, 
+                    4
+                ], 
+                [
+                    "bs_vip_49", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_45", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_46", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_wdnb_13", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_wdnb_17", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_se_1570", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wp_11", 
+                    3, 
+                    6
+                ], 
+                [
+                    "bs_wp_15", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_2065", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1422", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebadaily_32", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_se_489", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_rts_48", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_wenku-vip_13", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_se_2376", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wenku_49", 
+                    1, 
+                    4
+                ], 
+                [
+                    "bs_vip_66", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_63", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_2606", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_2438", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_53", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_290", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_2895", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_rts-weibo_8", 
+                    1, 
+                    3
+                ], 
+                [
+                    "bs_tiebahour_30", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_rts_26", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_1445", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_739", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2627", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_hourwk_7", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_hourwk_1", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_wdnb_52", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_gfw-en-sr-vip_8", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1536", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1534", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wp_56", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_4236", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_654", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebadaily_73", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_vip_126", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_123", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_tiebase_342", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_333", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_752", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1072", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wenku-vip_65", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_se_938", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_2476", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_rts-weibo_11", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_rts-weibo_13", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_se_1267", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wise-vip_136", 
+                    3, 
+                    4
+                ], 
+                [
+                    "bs_wp_74", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_3939", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wdna_67", 
+                    9, 
+                    10
+                ], 
+                [
+                    "bs_tiebadaily_94", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_se_852", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_4114", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1470", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_982", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebahour_71", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_se_422", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1892", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-sr-wdna_331", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebadaily_3", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_gcd-en-se_1640", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wise-vip_110", 
+                    3, 
+                    4
+                ], 
+                [
+                    "bs_gcd-en-se_3916", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1704", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1135", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_dnews-weibo_66", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_dnews-weibo_63", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_gcd-en-se_4138", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wenku_54", 
+                    3, 
+                    4
+                ], 
+                [
+                    "bs_tiebase_1596", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_301", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_222", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_223", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_226", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_zhidao_21", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_zhidao_26", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_gcd-en-se_192", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_225", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_2169", 
+                    2, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_492", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_2920", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wise-vip_176", 
+                    3, 
+                    4
+                ], 
+                [
+                    "bs_tiebarts_22", 
+                    4, 
+                    3
+                ], 
+                [
+                    "bs_gcd-en-se_2933", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2373", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_scholar_66", 
+                    1, 
+                    2
+                ], 
+                [
+                    "bs_wdna_25", 
+                    9, 
+                    10
+                ], 
+                [
+                    "bs_gcd-en-se_4124", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2491", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wdna_8", 
+                    9, 
+                    10
+                ], 
+                [
+                    "bs_se_1328", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-cn-cse-hour_7", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_se_2433", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wise-vip_234", 
+                    3, 
+                    4
+                ], 
+                [
+                    "bs_vip_198", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_199", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_191", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_193", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_195", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_196", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_197", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-sr-wdna_197", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_88", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_85", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_84", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_82", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_wise-diyu-vip_26", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_se_2005", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2004", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2269", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_4679", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2911", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2915", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-vip_5", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_rts_17", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_tiebase_2796", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_904", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_844", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_871", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebahour_90", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_rts_29", 
+                    7, 
+                    6
+                ], 
+                [
+                    "bs_rts_28", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_rts_24", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_rts_23", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_172", 
+                    3, 
+                    6
+                ], 
+                [
+                    "bs_vip_170", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_176", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_174", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_178", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_4879", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_scholar_65", 
+                    1, 
+                    2
+                ], 
+                [
+                    "bs_zhidao_1", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_se_2931", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_255", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wp_58", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_se_1488", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wise-vip_40", 
+                    3, 
+                    4
+                ], 
+                [
+                    "bs_gcd-en-se_4190", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2998", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_zhidao_81", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_wdna_83", 
+                    9, 
+                    10
+                ], 
+                [
+                    "bs_rts_47", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_154", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_156", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_157", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_150", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_152", 
+                    3, 
+                    6
+                ], 
+                [
+                    "bs_vip_158", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_wdnb_161", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_zhidao_82", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_tiebase_1725", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2955", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2958", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_277", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_1271", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_155", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_3199", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_929", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1868", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1869", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2716", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_3", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_3299", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_rts_67", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_212", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_211", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_217", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_214", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_136", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_134", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_tiebase_2167", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2711", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_4102", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_1679", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_rts-weibo_0", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_rts-weibo_2", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_rts-weibo_4", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_wenku-vip_57", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_tiebase_1259", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1443", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wdnb_35", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_se_1326", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wise-vip_249", 
+                    3, 
+                    4
+                ], 
+                [
+                    "bs_gcd-sr-wdna_228", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_173", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_2807", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2360", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2361", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2365", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wdnb_0", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_wdnb_5", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_wdnb_4", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_gcd-en-se_4779", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wise-vip_58", 
+                    3, 
+                    4
+                ], 
+                [
+                    "bs_gcd-en-se_3190", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_938", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_112", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_117", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_gcd-sr-wdna_95", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_190", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_790", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_531", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_zhidao_56", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_se_2199", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2197", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1249", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2995", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_978", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1464", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1469", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1143", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_364", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2828", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_2827", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1447", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2345", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2346", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wdnb_127", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_gcd-en-se_2753", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_1447", 
+                    2, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_1009", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_551", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_29", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2488", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_261", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1256", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_2545", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2757", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2753", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_1006", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1083", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_rts-weibo_14", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_gcd-en-se_1268", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wise-daily_18", 
+                    0, 
+                    3
+                ], 
+                [
+                    "bs_wise-daily_16", 
+                    0, 
+                    3
+                ], 
+                [
+                    "bs_wise-daily_17", 
+                    0, 
+                    3
+                ], 
+                [
+                    "bs_gcd-en-se_2514", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_452", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wenku-vip_59", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_scholar_191", 
+                    1, 
+                    2
+                ], 
+                [
+                    "bs_tiebase_1024", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_3363", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_4009", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wdnb_45", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_se_2144", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-vip_256", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2870", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_519", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_517", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_515", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_512", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_795", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_1898", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_3564", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_3309", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1045", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_912", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1984", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2536", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_415", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-sr-wdna_433", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2858", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_0", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_se_534", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1588", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1587", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1211", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1581", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_3098", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2110", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_4453", 
+                    2, 
+                    1
+                ], 
+                [
+                    "bs_se_1978", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1970", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1803", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-vip_219", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2611", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wdnb_26", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_wdnb_23", 
+                    4, 
+                    3
+                ], 
+                [
+                    "bs_gcd-en-se_1582", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1561", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1563", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1567", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1566", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1707", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1703", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wise-daily_19", 
+                    0, 
+                    3
+                ], 
+                [
+                    "bs_gcd-en-se_1001", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_260", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_4431", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebadaily_49", 
+                    2, 
+                    3
+                ], 
+                [
+                    "bs_se_2407", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1953", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_105", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1047", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_zhidao-vip_37", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_wenku-vip_55", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_wenku-vip_53", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_wenku-vip_52", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_wenku-vip_50", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_vip_71", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_scholar_117", 
+                    1, 
+                    2
+                ], 
+                [
+                    "bs_rts_27", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_se_1541", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1540", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_1545", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_44", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_se_2024", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_wp_47", 
+                    5, 
+                    6
+                ], 
+                [
+                    "bs_se_281", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_tiebase_2949", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_vip_175", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_vip_179", 
+                    4, 
+                    6
+                ], 
+                [
+                    "bs_gcd-en-se_4110", 
+                    0, 
+                    1
+                ], 
+                [
+                    "bs_gcd-en-se_1968", 
+                    0, 
+                    1
+                ]
+            ], 
+            "num": 525
+        }, 
+        "offline_slavenodes": {
+            "list": [
+                "10.81.50.229", 
+                "10.81.50.228", 
+                "10.81.37.204", 
+                "10.81.37.205", 
+                "10.81.38.55", 
+                "10.81.37.203", 
+                "10.81.50.221", 
+                "10.81.50.223", 
+                "10.81.19.163", 
+                "10.81.19.162", 
+                "10.81.19.197", 
+                "10.23.244.182", 
+                "10.81.40.190", 
+                "10.81.40.119", 
+                "10.81.37.211", 
+                "10.48.110.60", 
+                "10.48.110.63", 
+                "10.81.37.212", 
+                "10.81.37.215", 
+                "10.81.37.216", 
+                "10.26.118.27", 
+                "10.81.19.152", 
+                "10.81.19.153", 
+                "10.26.54.36", 
+                "10.46.70.43", 
+                "10.81.19.158", 
+                "10.81.47.91", 
+                "10.81.39.157", 
+                "10.81.47.97", 
+                "10.81.47.96", 
+                "10.81.37.192", 
+                "10.46.91.20", 
+                "10.81.37.191", 
+                "10.81.37.195", 
+                "10.81.47.104", 
+                "10.81.51.109", 
+                "10.81.51.103", 
+                "10.81.51.180", 
+                "10.81.51.249", 
+                "10.23.242.74", 
+                "10.81.50.249", 
+                "10.81.50.248", 
+                "10.81.50.244", 
+                "10.81.50.243", 
+                "10.81.37.185", 
+                "10.81.37.186", 
+                "10.81.47.86", 
+                "10.81.47.87", 
+                "10.26.32.17", 
+                "10.81.46.221", 
+                "10.26.48.26", 
+                "10.46.85.37", 
+                "10.26.148.25", 
+                "10.48.111.34", 
+                "10.23.26.35", 
+                "10.46.70.20", 
+                "10.58.24.31", 
+                "10.81.38.26", 
+                "10.81.19.202", 
+                "10.81.19.203", 
+                "10.26.35.29", 
+                "10.81.1.207", 
+                "10.81.38.63", 
+                "10.26.212.39", 
+                "10.81.45.169", 
+                "10.81.52.140", 
+                "10.81.39.133", 
+                "10.81.52.127", 
+                "10.81.19.125", 
+                "10.81.39.63", 
+                "10.48.86.57", 
+                "10.81.39.64", 
+                "10.81.46.224", 
+                "10.81.46.220", 
+                "10.81.47.174", 
+                "10.81.46.222", 
+                "10.81.46.223", 
+                "10.81.38.111", 
+                "10.81.51.11", 
+                "10.26.63.45", 
+                "10.81.51.13", 
+                "10.23.35.16", 
+                "10.81.51.155", 
+                "10.81.48.18", 
+                "10.81.51.97", 
+                "10.26.61.49", 
+                "10.26.59.27", 
+                "10.81.52.136", 
+                "10.81.50.217", 
+                "10.81.46.237", 
+                "10.81.50.219", 
+                "10.81.46.235", 
+                "10.92.157.46", 
+                "10.23.30.44", 
+                "10.46.90.18", 
+                "10.81.38.208", 
+                "10.81.50.188", 
+                "10.81.51.141", 
+                "10.81.51.142", 
+                "10.81.51.147", 
+                "10.26.62.17", 
+                "10.46.68.20", 
+                "10.81.50.11", 
+                "10.81.37.221", 
+                "10.81.37.222", 
+                "10.81.37.223", 
+                "10.57.243.15", 
+                "10.81.37.213", 
+                "10.81.46.236", 
+                "10.46.74.11", 
+                "10.26.149.26", 
+                "10.23.26.16", 
+                "10.81.18.142", 
+                "10.81.37.206", 
+                "10.81.39.226", 
+                "10.26.219.60", 
+                "10.81.47.80", 
+                "10.26.220.19", 
+                "10.81.45.23", 
+                "10.81.50.232", 
+                "10.81.50.230", 
+                "10.81.50.231", 
+                "10.26.63.46", 
+                "10.58.33.52", 
+                "10.58.33.53", 
+                "10.81.51.47", 
+                "10.81.51.45", 
+                "10.81.46.219", 
+                "10.81.47.78", 
+                "10.81.18.157", 
+                "10.81.50.34", 
+                "10.81.52.182", 
+                "10.81.52.183", 
+                "10.81.51.85"
+            ], 
+            "num": 134
+        }, 
+        "violative_failure_domain": {
+            "list": [
+                "10.46.188", 
+                "10.48.115", 
+                "10.46.187", 
+                "10.48.113", 
+                "10.92.68", 
+                "10.48.111", 
+                "10.92.67", 
+                "10.92.65", 
+                "10.92.63", 
+                "10.57.239", 
+                "10.48.112", 
+                "10.46.82", 
+                "10.48.110", 
+                "10.92.69", 
+                "10.46.18", 
+                "10.46.19", 
+                "10.92.70", 
+                "10.57.177", 
+                "10.48.156", 
+                "10.23.246", 
+                "10.57.140", 
+                "10.26.160", 
+                "10.48.155", 
+                "10.57.149", 
+                "10.92.170", 
+                "10.48.94", 
+                "10.48.95", 
+                "10.48.97", 
+                "10.48.90", 
+                "10.48.91", 
+                "10.48.98", 
+                "10.48.99", 
+                "10.58.27", 
+                "10.48.106", 
+                "10.92.166", 
+                "10.92.167", 
+                "10.92.164", 
+                "10.92.165", 
+                "10.92.168", 
+                "10.92.169", 
+                "10.48.86", 
+                "10.46.70", 
+                "10.46.72", 
+                "10.46.73", 
+                "10.48.89", 
+                "10.48.143", 
+                "10.48.146", 
+                "10.92.157", 
+                "10.92.155", 
+                "10.92.154", 
+                "10.92.153", 
+                "10.58.83", 
+                "10.46.64", 
+                "10.57.178", 
+                "10.57.179", 
+                "10.48.152", 
+                "10.48.153", 
+                "10.48.150", 
+                "10.48.151", 
+                "10.26.112", 
+                "10.26.113", 
+                "10.26.111", 
+                "10.58.90", 
+                "10.26.49", 
+                "10.26.48", 
+                "10.57.244", 
+                "10.57.245", 
+                "10.26.47", 
+                "10.57.243", 
+                "10.57.181", 
+                "10.57.180", 
+                "10.57.183", 
+                "10.57.182", 
+                "10.57.185", 
+                "10.57.184", 
+                "10.57.187", 
+                "10.57.186", 
+                "10.57.189", 
+                "10.57.188", 
+                "10.48.161", 
+                "10.46.45", 
+                "10.46.185", 
+                "10.23.16", 
+                "10.58.66", 
+                "10.26.76", 
+                "10.57.192", 
+                "10.57.193", 
+                "10.57.190", 
+                "10.57.191", 
+                "10.48.176", 
+                "10.48.177", 
+                "10.58.46", 
+                "10.92.45", 
+                "10.58.115", 
+                "10.58.199", 
+                "10.23.22", 
+                "10.23.23", 
+                "10.23.21", 
+                "10.23.25", 
+                "10.46.38", 
+                "10.26.63", 
+                "10.26.62", 
+                "10.26.65", 
+                "10.26.66", 
+                "10.48.105", 
+                "10.48.104", 
+                "10.48.107", 
+                "10.92.58", 
+                "10.48.101", 
+                "10.48.100", 
+                "10.48.103", 
+                "10.48.102", 
+                "10.48.108", 
+                "10.92.54", 
+                "10.57.129", 
+                "10.57.128", 
+                "10.57.127", 
+                "10.23.31", 
+                "10.58.44", 
+                "10.46.23"
+            ], 
+            "num": 120
+        }
+    }
+}
